@@ -106,7 +106,7 @@ python server.py
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/NotSooShariff/security-docs-guide-chatbot/blob/main/LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/pratz10101/LLM-Based-Chatbot/blob/main/LICENSE) file for details.
 
 ## Contributions
 
